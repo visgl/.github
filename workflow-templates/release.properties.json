@@ -1,0 +1,11 @@
+{
+  "name": "vis.gl Official Release",
+  "description": "vis.gl organization automated release workflow template",
+  "iconName": "octicon rocket",
+  "categories": [
+    "continuous-integration",
+    "deployment",
+    "JavaScript",
+    "npm"
+  ]
+}
