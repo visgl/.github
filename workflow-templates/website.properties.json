@@ -1,0 +1,10 @@
+{
+  "name": "Build Website",
+  "description": "vis.gl organization automated website publish workflow template",
+  "iconName": "octicon globe",
+  "categories": [
+    "continuous-integration",
+    "deployment",
+    "JavaScript"
+  ]
+}
